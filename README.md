@@ -1,2 +1,3 @@
+Nombre del repositorio:
 # ejercicios-intro-a-los-algoritmos
-Este repositorio se encargara de almacenar los proyectos entorno a las actividades de laboratorio.
+Especificamente este repositorio contendra las actividades de laboratorio a partir de la practia Nro 4.
